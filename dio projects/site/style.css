@@ -1,0 +1,46 @@
+@charset "UTF-8";
+
+body{
+background-image: linear-gradient(#FB3640, #ecdbdc, #4169e1 50rem);
+font-family: verdana, arial, helvetica ;
+max-width: 900px ;
+margin: auto;
+}
+
+.avatar{
+    border:3px solid #4169e1;
+    border-radius: 50%
+}
+
+#title , #subtitle , #posttilte {
+   color: rgb(65, 105, 225);
+
+}
+
+.posttitle{
+    font-size: 80px;
+    color: rgb(65, 105, 225) ;
+    font: italic;
+    margin:0%;
+    margin-bottom: 15px; 
+    
+}
+
+.down-page {
+    padding: 15px;
+    border:3px  solid #FB3640;
+    border-radius: 1%;
+    margin-bottom: 15px ; 
+}
+
+.text{
+    margin: 0;
+    margin-bottom: 15px ;
+    text-align: center
+}
+    
+
+.postimage{
+    margin-bottom: 15px;
+    width:100%;
+}
