@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pseudo-elementos</title>
+    <style>
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        a{
+            color: blue;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited{
+            color:  maroon;
+        }
+
+        a:hover{
+           text-decoration: underline;
+           color: cyan; 
+        }
+
+        .especial{
+            background-color: rgb(255, 127, 176);
+            color:lavender;
+        }
+
+        .especial::before{
+            content:' 📌 ';
+            text-decoration: none;
+            
+        }
+
+        .especial::after{
+            content:' 📌 ';
+            text-decoration: none;
+           
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>Persinonalizando Links</h1>
+    <ul>
+        <li><a href="https://github.com/GusttavoHenry" target="_blank" >Repositorio Github</a></li>
+        <li class="especial"><a href="https://www.twitch.tv/gustta_henry" target="_blank">Canal da Twitch</a></li>
+        <li class="especial"><a href="https://www.linkedin.com/in/gustavo-henrique-375aba214/" target="_blank">LinkEdin</a></li>
+    </ul>
+</body>
+</html>
