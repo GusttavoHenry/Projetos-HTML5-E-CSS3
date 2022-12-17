@@ -1,5 +1,5 @@
 <h1 align="center">
-  SpaceBoy Game<img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
+  Exercicios com HTML5 e CSS3 <img width="25px" src="https://cdn.discordapp.com/attachments/1049167666876776458/1049167722082226186/icon.png"/>
 </h1>
 
  <p align="center">
@@ -8,7 +8,7 @@
 
 <br>
 
-![Resultado final do projeto](https://cdn.discordapp.com/attachments/696922608343449614/1053677943748034660/Platform-game-project.jpg)
+![Resultado final do projeto](https://blog.4linux.com.br/wp-content/uploads/2018/03/Melhor-Curso-de-HTML5-e-CSS3-1900x946_c.png)
 
 <br>
 
