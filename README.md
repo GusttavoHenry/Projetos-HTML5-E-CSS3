@@ -16,7 +16,7 @@
 
 Esse projeto contem exercícios em HTML5 E CSS3
 
--Video demonstrativo: <a href="https://drive.google.com/file/d/1RH7YU0JABoiIWP37QaBdGsk2oXdfxhJp/view?usp=share_link" target="_blank"> Clique aqui </a>  
+- Video demonstrativo: <a href="https://drive.google.com/file/d/1RH7YU0JABoiIWP37QaBdGsk2oXdfxhJp/view?usp=share_link" target="_blank"> Clique aqui </a>  
 
 
 ## 🚀 Linguagens
